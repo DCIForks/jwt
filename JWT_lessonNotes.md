@@ -2,6 +2,9 @@
 
 * [How to pronounce JWT](https://www.youtube.com/embed/4PgX3yBJEyw?start=2540&end=2547)
 
+## Exercise
+[GitHub Classroom: Chuck Norris Joke client](https://classroom.github.com/a/ectAnnHc)
+
 ## Bonus
 * [Creating `alias`es with `~/.bashrc`](https://dciforks.github.io/nav-menu-2/)
 
