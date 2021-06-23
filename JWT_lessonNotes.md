@@ -2,6 +2,10 @@
 
 [How to pronounce JWT](https://www.youtube.com/embed/4PgX3yBJEyw?start=2540&end=2547)
 
+## Bonus
+[Creating `alias`es with `~/.bashrc`](https://dciforks.github.io/nav-menu-2/)
+
+
 ## Live Coding
 [Repository](https://github.com/DCIForks/jwt)
 
