@@ -1,6 +1,6 @@
 # JSON Web Tokens
 
-[How to pronounce JWT](https://www.youtube.com/embed/4PgX3yBJEyw?start=2540&end=2547)
+* [How to pronounce JWT](https://www.youtube.com/embed/4PgX3yBJEyw?start=2540&end=2547)
 
 ## Bonus
 * [Creating `alias`es with `~/.bashrc`](https://dciforks.github.io/nav-menu-2/)
@@ -27,7 +27,7 @@
 * [JWT on Wikipedia](https://en.wikipedia.org/wiki/JSON_Web_Token)
 * [JWT Debugger](https://jwt.io/#debugger-io)
 
-[Vulnerabilities](https://rodarmer.squarespace.com/security-blog/2019/7/21/jwt-security-vulnerabilities)
+* [Vulnerabilities](https://rodarmer.squarespace.com/security-blog/2019/7/21/jwt-security-vulnerabilities)
 
 * [Encryption vs Encoding](https://danielmiessler.com/study/encoding-encryption-hashing-obfuscation/)
 
